@@ -7,7 +7,7 @@ A server mod for Creative/privileged item provenance, durable audit logs, staff 
 ## Install
 
 1. Use **Minecraft 1.20.1**, **Forge 47.4.0 or a later 47.x release**, and **Java 17**.
-2. Put `creativeguard-1.0.0.jar` from `build/libs/` in the **server's `mods/` folder** and restart the server.
+2. Put `creativeguard-1.0.0.jar` in the **server's `mods/` folder** and restart the server.
 3. Run `/creativeaudit status` as an operator. Default staff access is operator level 2; quarantine requires level 3.
 4. Optionally put the same JAR in each player's Forge 1.20.1 `mods/` folder for badges and hover tooltips. Players without CreativeGuard can join; logging, commands, and chat work without the companion. Other installed mods may have their own client requirements.
 
