@@ -1,4 +1,4 @@
-[CreativeGuard website](https://brendanwang.github.io/CreativeGuard/)
+[CreativeGuard Website & Downloads](https://brendanwang.github.io/CreativeGuard/)
 
 # CreativeGuard — Minecraft Forge 1.20.1
 
